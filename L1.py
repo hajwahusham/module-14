@@ -46,7 +46,7 @@ print(sorted_students)
 print(np.linspace(0,1,5))
 
 print(np.zeros((2,3))) # 2x3 matrix of 0
-print(np.ones((3,3)))
+print(np.ones((3,3))) # 3x3 matrix of 1
 print(np.eye(3))  # identity matrix
 
 a = np.array([1,2,3])
