@@ -1,7 +1,7 @@
 import numpy as np
 from numpy import random
 
-'''
+
 arr1 = np.array([1,2,3,4,5])
 print(arr1)
 print(type(arr1))
@@ -40,7 +40,7 @@ print(students)
 print("sort by height")
 sorted_students = np.sort(students, order='height')
 print(sorted_students)
-'''
+
 
 
 print(np.linspace(0,1,5))
